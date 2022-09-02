@@ -1,0 +1,1 @@
+print("Name \tAge \tcountry \tcity \nasabench \t 250 \tfinland \thelsinki")
